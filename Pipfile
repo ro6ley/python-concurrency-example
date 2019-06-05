@@ -7,6 +7,7 @@ name = "pypi"
 
 [packages]
 imgurpython = "*"
+aiohttp = "*"
 
 [requires]
 python_version = "3.7"
