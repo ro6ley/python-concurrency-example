@@ -2,7 +2,7 @@
 
 # Concurrency in Python
 
-This repository contains the code for this [blogpost]() on [StackAbuse](https://stackabuse.com/).
+This repository contains the code for this [blogpost](https://stackabuse.com/concurrency-in-python/) on [StackAbuse](https://stackabuse.com/).
 
 ## Getting Started
 
